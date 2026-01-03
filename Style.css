@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(120deg, #141e30, #243b55);
+    font-family: Arial;
+    color: white;
+}
+
+.box {
+    width: 350px;
+    padding: 25px;
+    background: rgba(0,0,0,0.5);
+    margin: 90px auto;
+    border-radius: 12px;
+    text-align: center;
+}
+
+input, button {
+    width: 90%;
+    padding: 8px;
+    margin: 6px;
+    border-radius: 6px;
+    border: none;
+}
+
+button {
+    background: #00c853;
+    color: white;
+}
